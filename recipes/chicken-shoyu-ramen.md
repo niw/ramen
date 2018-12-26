@@ -73,6 +73,7 @@ The original Tweet is [here](https://twitter.com/niw/status/1077755225656590341)
 ## Ramen
 
 1. Put Dashi in a bowl 300ml, and dissolve chicken broth paste 30ml.
+1. Put Shoyu sauce and flavored oil.
 1. Put cooked noodles
 1. Put a flavored egg.
 1. Put a few sliced Chashu.
