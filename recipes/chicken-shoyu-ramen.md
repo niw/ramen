@@ -48,7 +48,7 @@ The original Tweet is [here](https://twitter.com/niw/status/1077755225656590341)
 
 ### Flavored oil
 
-1. Put canola oil, Niboshi, Konbu and chopped white part of green onions into a pan.
+1. Put canola oil, Niboshi, Konbu, Katsuobushi, and chopped white part of green onions into a pan.
 1. Fry them until green onions turn to brown.
 1. Filter oil.
 1. Put flavored oil into a bowl.
