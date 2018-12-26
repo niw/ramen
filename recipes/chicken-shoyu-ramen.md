@@ -19,7 +19,7 @@ The original Tweet is [here](https://twitter.com/niw/status/1077755225656590341)
 
 ### Chicken broth
 
-1. For now, using [POPLA International Tori gara soup paste](https://www.popla.com/new-products/torigara-stock-paste).
+1. For now, using [POPLA International Torigara Stock Paste](https://www.popla.com/new-products/torigara-stock-paste).
 
 > NOTE: This step will be replaced with a ral chicken process in a future version.
 
