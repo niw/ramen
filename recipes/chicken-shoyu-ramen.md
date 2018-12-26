@@ -1,8 +1,11 @@
 # Shoyu-based chicken broth ramen
 
+*Version 0.1.0*
+
 This recipe is my first try to make self-made ramen.
 
 ![Shoyu-based chicken broth ramen](https://pbs.twimg.com/media/DvT0qZOV4AAMHEZ?format=jpg&name=thumb)
+
 The original Tweet is [here](https://twitter.com/niw/status/1077755225656590341).
 
 ## Chicken broth
@@ -18,7 +21,7 @@ The original Tweet is [here](https://twitter.com/niw/status/1077755225656590341)
 
 1. For now, using [POPLA International Tori gara soup paste](https://www.popla.com/new-products/torigara-stock-paste).
 
-> NOTE: This step will be replaced with a chicken process in a future version.
+> NOTE: This step will be replaced with a ral chicken process in a future version.
 
 ## Flavored egg
 
@@ -61,9 +64,11 @@ The original Tweet is [here](https://twitter.com/niw/status/1077755225656590341)
 1. Put Shoyu sauce and pork libs into a Ziplock.
 1. Put the Ziplock bag in a refrigerator at least for 30 minutes.
 
-## Noodles
+## Noodle
 
 1. For now, using pre-cooked noodles that you can buy at the Japanese supermarket.
+
+> NOTE: This step will be replaced with a real noodle making process in a future version.
 
 ## Ramen
 
