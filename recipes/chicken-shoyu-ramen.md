@@ -31,7 +31,7 @@ This recipe is my first try to make self-made ramen.
 
 ### Flavoring
 
-1. Mix Dashi soup 20ml, Shoyu 40ml, Mirin 40ml and put in a Ziplock.
+1. Mix Dashi soup 20 ml, Shoyu 40 ml, Mirin 40 ml and put in a Ziplock.
 1. Put the half-boiled egg in the Ziplock.
 1. Put the Ziplock bag in a refrigerator at least for 30 minutes.
 
@@ -41,7 +41,7 @@ This recipe is my first try to make self-made ramen.
 
 ### Shoyu sauce
 
-1. Put Shoyu 100ml, Mirin 100ml, Sake 25ml, Konbu, Niboshi into a pan.
+1. Put Shoyu 100 ml, Mirin 100 ml, Sake 25 ml, Konbu, Niboshi into a pan.
 1. Boil it until it has bubbles.
 1. Take Konbu and Niboshi off.
 1. Put sauce into a bowl.
@@ -55,8 +55,8 @@ This recipe is my first try to make self-made ramen.
 
 ## Chashu
 
-1. Put water 300ml, Sake 150ml, sliced gingers, sliced garlic, green part of green onions into a pot.
-1. Put chopped pork libs 200g to the pot.
+1. Put water 300 ml, Sake 150 ml, sliced gingers, sliced garlic, green part of green onions into a pot.
+1. Put chopped pork libs 200 g to the pot.
 1. Boil it with high heat until water is boiling.
 1. Reduce heat to mid-level and boil it for 10 minutes.
 1. Put a lid on a pot and boil it for 10 minutes.
@@ -79,7 +79,7 @@ This recipe is my first try to make self-made ramen.
 
 ## Ramen
 
-1. Put Dashi in a bowl 300ml, and dissolve chicken broth paste 30ml.
+1. Put Dashi in a bowl 300 ml, and dissolve chicken broth paste 3 ml.
 1. Put Shoyu sauce and flavored oil.
 1. Put cooked noodles
 1. Put a flavored egg.
