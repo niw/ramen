@@ -1,12 +1,10 @@
 # Shoyu-based chicken broth ramen
 
-*Version 0.1.0*
+*Version 0.1.1*
 
 This recipe is my first try to make self-made ramen.
 
-![Shoyu-based chicken broth ramen](https://pbs.twimg.com/media/DvT0qZOV4AAMHEZ?format=jpg&name=thumb)
-
-The original Tweet is [here](https://twitter.com/niw/status/1077755225656590341).
+![Shoyu-based chicken broth ramen](https://pbs.twimg.com/media/DvZQrF5UYAA8yuv?format=jpg&name=small)
 
 ## Chicken broth
 
@@ -21,7 +19,7 @@ The original Tweet is [here](https://twitter.com/niw/status/1077755225656590341)
 
 1. For now, using [POPLA International Torigara Stock Paste](https://www.popla.com/new-products/torigara-stock-paste).
 
-> NOTE: This step will be replaced with a ral chicken process in a future version.
+> NOTE: This step will be replaced with a real chicken process in a future version.
 
 ## Flavored egg
 
@@ -36,6 +34,8 @@ The original Tweet is [here](https://twitter.com/niw/status/1077755225656590341)
 1. Mix Dashi soup 20ml, Shoyu 40ml, Mirin 40ml and put in a Ziplock.
 1. Put the half-boiled egg in the Ziplock.
 1. Put the Ziplock bag in a refrigerator at least for 30 minutes.
+
+> NOTE: **DO NOT** keep eggs in Ziplock with soup longer than a few hours, or these eggs would be too much flavor.
 
 ## Sauce
 
@@ -62,7 +62,14 @@ The original Tweet is [here](https://twitter.com/niw/status/1077755225656590341)
 1. Put a lid on a pot and boil it for 10 minutes.
 1. Stop the heat and keep it for 30 minutes.
 1. Put Shoyu sauce and pork libs into a Ziplock.
-1. Put the Ziplock bag in a refrigerator at least for 30 minutes.
+1. Put the Ziplock bag in a refrigerator at least for 30 minutes, would it be better for more extended hours, can be overnight.
+
+## Greens
+
+1. Boil enough water with small amount of salt in a pot.
+1.  Put spinach into the pot and boil for 1.5 minutes.
+1. Take spinach out the pot and put in cold water.
+1. Drain water and cut them in a small amount.
 
 ## Noodle
 
@@ -77,4 +84,5 @@ The original Tweet is [here](https://twitter.com/niw/status/1077755225656590341)
 1. Put cooked noodles
 1. Put a flavored egg.
 1. Put a few sliced Chashu.
+1. Put a few spinach.
 1. Taste and fun.
