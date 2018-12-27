@@ -50,8 +50,7 @@ This recipe is my first try to make self-made ramen.
 
 1. Put canola oil, Niboshi, Konbu, Katsuobushi, and chopped white part of green onions into a pan.
 1. Fry them until green onions turn to brown.
-1. Filter oil.
-1. Put flavored oil into a bowl.
+1. Filter oil with a net into a bowl.
 
 ## Chashu
 
@@ -62,14 +61,16 @@ This recipe is my first try to make self-made ramen.
 1. Put a lid on a pot and boil it for 10 minutes.
 1. Stop the heat and keep it for 30 minutes.
 1. Put Shoyu sauce and pork libs into a Ziplock.
-1. Put the Ziplock bag in a refrigerator at least for 30 minutes, would it be better for more extended hours, can be overnight.
+1. Put the Ziplock bag in a refrigerator at least for 30 minutes.
+
+> NOTE: It would be better to keep it in a refrigerator for more extended hours, can be overnight.
 
 ## Greens
 
 1. Boil enough water with small amount of salt in a pot.
-1.  Put spinach into the pot and boil for 1.5 minutes.
-1. Take spinach out the pot and put in cold water.
-1. Drain water and cut them in a small amount.
+1. Put spinach into the pot and boil for 1.5 minutes.
+1. Take spinach out and put in cold water.
+1. Drain water and cut them in small chunks.
 
 ## Noodle
 
@@ -84,5 +85,5 @@ This recipe is my first try to make self-made ramen.
 1. Put cooked noodles
 1. Put a flavored egg.
 1. Put a few sliced Chashu.
-1. Put a few spinach.
+1. Put a chink of spinach.
 1. Taste and fun.
