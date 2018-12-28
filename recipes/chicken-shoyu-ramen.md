@@ -1,6 +1,6 @@
 # Shoyu-based chicken broth ramen
 
-*Version 0.1.1*
+*Version 0.2.0*
 
 This recipe is my first try to make self-made ramen.
 
@@ -72,11 +72,13 @@ This recipe is my first try to make self-made ramen.
 1. Take spinach out and put in cold water.
 1. Drain water and cut them in small chunks.
 
-## Noodle
+## Noodles
 
-1. For now, using pre-cooked noodles that you can buy at the Japanese supermarket.
+1. Mix 70 ml cold water with 2g of salt, 20 ml boiled water with 2 g of baking powder.
+1. Mix it with bread flour 250 g and make a dough.
+1. Cut it and make noodles about 70 cm long.
 
-> NOTE: This step will be replaced with a real noodle making process in a future version.
+To run these steps, I was using [Philips HR2371/05 Compact Pasta Maker](https://amzn.to/2CBEhJt). This machine produces relatively thick noodles with out-of-box configuration, which requires for about 4 minutes boiling.
 
 ## Ramen
 
