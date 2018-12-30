@@ -74,7 +74,7 @@ This recipe is my first try to make self-made ramen.
 
 ## Noodles
 
-1. Mix 70 ml cold water with 2g of salt, 20 ml boiled water with 2 g of baking powder.
+1. Mix 70 ml cold water with 2g of salt, 20 ml boiled water with 2 g of baking soda.
 1. Mix it with bread flour 250 g and make a dough.
 1. Cut it and make noodles about 70 cm long.
 
